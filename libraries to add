@@ -1,0 +1,8 @@
+pip install requests
+pip install pymongo
+pip install enum
+pip install configparser
+pip install pymongo
+pip install schedule
+pip install six
+pip install dateutil
